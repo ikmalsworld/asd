@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SudokuFixKel1/SudokuFixKel1.iml" filepath="$PROJECT_DIR$/SudokuFixKel1/SudokuFixKel1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asd.iml" filepath="$PROJECT_DIR$/asd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tictactoe/tictactoe.iml" filepath="$PROJECT_DIR$/tictactoe/tictactoe.iml" />
+    </modules>
+  </component>
+</project>

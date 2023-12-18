@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StartMenu",
+            "request": "launch",
+            "mainClass": "sudoku.StartMenu",
+            "projectName": "asd_c4d6faed"
+        },
+        {
+            "type": "java",
+            "name": "SudokuMain",
+            "request": "launch",
+            "mainClass": "SudokuMain",
+            "projectName": "asd_c4d6faed"
+        },
+        {
+            "type": "java",
+            "name": "TTTGraphics",
+            "request": "launch",
+            "mainClass": "tictactoe.TTTGraphicSimple.TTTGraphics",
+            "projectName": "asd_c4d6faed"
+        },
+        {
+            "type": "java",
+            "name": "TTTConsoleNonOO",
+            "request": "launch",
+            "mainClass": "tictactoe.TTTConsoleNonOO.TTTConsoleNonOO",
+            "projectName": "asd_c4d6faed"
+        },
+        {
+            "type": "java",
+            "name": "GameMain",
+            "request": "launch",
+            "mainClass": "GameMain",
+            "projectName": "asd_c4d6faed"
+        },
+        {
+            "type": "java",
+            "name": "Main$GameMain",
+            "request": "launch",
+            "mainClass": "Main$GameMain",
+            "projectName": "asd_c4d6faed"
+        },
+        {
+            "type": "java",
+            "name": "TTTGraphicalOO$GameMain",
+            "request": "launch",
+            "mainClass": "TTTGraphicalOO$GameMain",
+            "projectName": "asd_c4d6faed"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        }
+    ]
+}
